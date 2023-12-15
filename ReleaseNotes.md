@@ -1,3 +1,24 @@
+## Release v0.0.0.2
+
+**Date:** Dec 15th, 2023
+
+**Summary:**
+
+Second pre-release that adds an additional translation format: SnAPP
+
+**New Features:**
+
+* SnAPP format now able to be read.
+
+**Bug Fixes:**
+
+* None
+
+
+**Known Issues:**
+
+* None
+
 ## Release v0.0.0.1
 
 **Date:** Dec 8th, 2023
