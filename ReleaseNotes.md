@@ -17,7 +17,7 @@ Second pre-release that adds an additional translation format: SnAPP
 
 **Known Issues:**
 
-* None
+* Due to some signing issues, this may get flagged by anti-virus software initially.
 
 ## Release v0.0.0.1
 
