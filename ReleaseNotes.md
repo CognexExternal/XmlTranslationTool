@@ -1,3 +1,24 @@
+## Release v0.0.0.4
+
+**Date:** May 9th, 2024
+
+**Summary:**
+
+Fourth pre-release that adds language support for Italian and Polish.
+
+**New Features:**
+
+* Language support for Italian and Polish.
+
+**Bug Fixes:**
+
+* None
+
+**Known Issues:**
+
+* Due to some signing issues, this may get flagged by anti-virus software initially.
+* Ctrl + Z (Undo) doesn't work on a new line in the table editing.
+
 ## Release v0.0.0.3
 
 **Date:** Feb 9th, 2024
